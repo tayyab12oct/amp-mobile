@@ -1,0 +1,25 @@
+{
+  "select_language": "Select your Language",
+  "seconds_remaining": "seconds remaining",
+  "continue_rating": "continue rating",
+
+  "proceed": "Proceed",
+  "dislike": "Dislike",
+  "skip": "Skip",
+  "like": "Like",
+  "see_more": "See More",
+  "done": "Done",
+  "see_all": "See All",
+
+  "introductory_text": "Find movies and shows to watch on your favourite OTT channels",
+  "how_to_proceed_text":"To proceed, we need you to rate a few blockbusters. It won't take more than 30 seconds",
+  "terms_consent_text":"By sign up you are agreeing to our Privacy Policy. and Terms & Conditions",
+  "select_language_helper_text": "You can modify selection anytime later...",
+  "recommendation_generation_waiting_text": "Generating recommendations for you…",   
+  "coachmark_text": "Swipe right or tap heart if you like the movie/show. Swipe left or tap X if you don’t like it. Swipe up or tap next to skip",
+  "offline_error_message": "Network error encountered. Please check your internet connection and try again."
+
+
+  
+  
+}

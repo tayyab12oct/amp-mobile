@@ -1,0 +1,199 @@
+{
+  "cast": [
+    {
+      "id": 1,
+      "name": "Joaquin Phoenix",
+      "born": "October 28, 1974",
+      "place": "San Juan, Puerto Rico",
+      "type": ["Actor", "Producer", "Soundtrack"],
+      "img_url": "https://www.gstatic.com/tv/thumb/persons/69768/69768_v9_bc.jpg",
+      "description": "Joaquin Phoenix Was Born Joaquin Rafael Bottom In San Juan, Puerto Rico, To Arlyn (Dunetz) And John Bottom, And Is The Middle Child In A Brood Of Five. His Parents, From The Continental United States, Were...",
+      "readMore": "Born Joaquin Rafael Bottom In San Juan, Puerto Rico, To Arlyn (Dunetz) And John Bottom, And Is The Middle Child In A Brood Of Five.Joaquin Phoenix Was Born Joaquin Rafael Bottom In San Juan, Puerto Rico, To Arlyn (Dunetz) And John Bottom, And Is The Middle Child In A Brood Of Five.Joaquin Phoenix Was Born Joaquin Rafael Bottom In San Juan, Puerto Rico, To Arlyn (Dunetz) And John Bottom, And Is The Middle Child In A Brood Of Five.",
+      "popularFor": [
+        {
+          "movie_id": "01",
+          "match_score": "90",
+          "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Padmaavat_poster.jpg/220px-Padmaavat_poster.jpg",
+          "name": "Padmavati",
+          "content_type": "Movie",
+          "providers": ["Netflix", "Amazon"],
+          "imdb_rating": "6.5"
+        },
+        {
+          "movie_id": "02",
+          "match_score": "70",
+          "image_url": "https://i.ytimg.com/vi/VSB4wGIdDwo/maxresdefault.jpg",
+          "name": "The Wonder Women",
+          "content_type": "Movie",
+          "providers": ["Netflix", "Amazon"],
+          "imdb_rating": "3.5"
+        },
+        {
+          "movie_id": "03",
+          "match_score": "80",
+          "image_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyN85JQSuwzb6AXatDSoCIkzN-GdNWKTegJ6q0pbC-0jNnoLoQ",
+          "name": "The Witcher",
+          "content_type": "Movie",
+          "providers": ["Netflix", "Amazon"],
+          "imdb_rating": "4.5"
+        },
+        {
+          "movie_id": "04",
+          "match_score": "90",
+          "image_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWW6pNG1Kqr1KAHDSn-B8HD79Ope94q0203S6uSyokUppME5uL",
+          "name": "After Life",
+          "content_type": "Movie",
+          "providers": ["Netflix", "Amazon"],
+          "imdb_rating": "3"
+        },
+        {
+          "movie_id": "05",
+          "match_score": "90",
+          "image_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSGF8_VbDqKF0B_4IQ0NF87VMDSy7_MPKryawR-qLnSIPQwo5z",
+          "name": "The Dark Knight Rises",
+          "content_type": "Movie",
+          "providers": ["Netflix", "Amazon"],
+          "imdb_rating": "3.5"
+        },
+        {
+          "movie_id": "06",
+          "match_score": "90",
+          "image_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMFGbLTtXPRjxjbMBV5HvxHm-0kQjzr3P2Q0TbOaB4R0RdcUKm",
+          "name": "Ready Or Not",
+          "content_type": "Movie",
+          "providers": ["Netflix", "Amazon"],
+          "imdb_rating": "3.5"
+        }
+      ],
+      "moviesAndShows": [
+        {
+          "movie_id": "01",
+          "match_score": "70",
+          "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Padmaavat_poster.jpg/220px-Padmaavat_poster.jpg",
+          "name": "Padmavati",
+          "content_type": "Movie",
+          "providers": ["Netflix", "Amazon"],
+          "imdb_rating": "5"
+        },
+        {
+          "movie_id": "02",
+          "match_score": "90",
+          "image_url": "https://i.ytimg.com/vi/VSB4wGIdDwo/maxresdefault.jpg",
+          "name": "The Wonder Women",
+          "content_type": "Movie",
+          "providers": ["Netflix", "Amazon"],
+          "imdb_rating": "5"
+        },
+        {
+          "movie_id": "03",
+          "match_score": "80",
+          "image_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyN85JQSuwzb6AXatDSoCIkzN-GdNWKTegJ6q0pbC-0jNnoLoQ",
+          "name": "The Witcher",
+          "content_type": "Movie",
+          "providers": ["Netflix", "Amazon"],
+          "imdb_rating": "3"
+        },
+        {
+          "movie_id": "04",
+          "match_score": "90",
+          "image_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWW6pNG1Kqr1KAHDSn-B8HD79Ope94q0203S6uSyokUppME5uL",
+          "name": "After Life",
+          "content_type": "Movie",
+          "providers": ["Netflix", "Amazon"],
+          "imdb_rating": "6"
+        },
+        {
+          "movie_id": "05",
+          "match_score": "90",
+          "image_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSGF8_VbDqKF0B_4IQ0NF87VMDSy7_MPKryawR-qLnSIPQwo5z",
+          "name": "The Dark Knight Rises",
+          "content_type": "Movie",
+          "providers": ["Netflix", "Amazon"],
+          "imdb_rating": "3.5"
+        },
+        {
+          "movie_id": "06",
+          "match_score": "90",
+          "image_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMFGbLTtXPRjxjbMBV5HvxHm-0kQjzr3P2Q0TbOaB4R0RdcUKm",
+          "name": "Ready Or Not",
+          "content_type": "Movie",
+          "providers": ["Netflix", "Amazon"],
+          "imdb_rating": "3.5"
+        }
+      ],
+      "awards": [
+        {
+          "movie_id": "01",
+          "match_score": "90",
+          "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Padmaavat_poster.jpg/220px-Padmaavat_poster.jpg",
+          "name": "Padmavati",
+          "content_type": "Movie",
+          "providers": ["Netflix", "Amazon"]
+        },
+        {
+          "movie_id": "02",
+          "match_score": "90",
+          "image_url": "https://i.ytimg.com/vi/VSB4wGIdDwo/maxresdefault.jpg",
+          "name": "The Wonder Women",
+          "content_type": "Movie",
+          "providers": ["Netflix", "Amazon"]
+        },
+        {
+          "movie_id": "03",
+          "match_score": "90",
+          "image_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyN85JQSuwzb6AXatDSoCIkzN-GdNWKTegJ6q0pbC-0jNnoLoQ",
+          "name": "The Witcher",
+          "content_type": "Movie",
+          "providers": ["Netflix", "Amazon"]
+        },
+        {
+          "movie_id": "04",
+          "match_score": "90",
+          "image_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWW6pNG1Kqr1KAHDSn-B8HD79Ope94q0203S6uSyokUppME5uL",
+          "name": "After Life",
+          "content_type": "Movie",
+          "providers": ["Netflix", "Amazon"]
+        },
+        {
+          "movie_id": "05",
+          "match_score": "90",
+          "image_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSGF8_VbDqKF0B_4IQ0NF87VMDSy7_MPKryawR-qLnSIPQwo5z",
+          "name": "The Dark Knight Rises",
+          "content_type": "Movie",
+          "providers": ["Netflix", "Amazon"]
+        },
+        {
+          "movie_id": "06",
+          "match_score": "90",
+          "image_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMFGbLTtXPRjxjbMBV5HvxHm-0kQjzr3P2Q0TbOaB4R0RdcUKm",
+          "name": "Ready Or Not",
+          "content_type": "Movie",
+          "providers": ["Netflix", "Amazon"]
+        }
+      ],
+      "photos": [
+        {
+          "img_url": "https://www.gstatic.com/tv/thumb/persons/69768/69768_v9_bc.jpg"
+        },
+        {
+          "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Joaquin_Phoenix-1325.jpg_%28cropped%29.jpg/1200px-Joaquin_Phoenix-1325.jpg_%28cropped%29.jpg"
+        },
+        {
+          "img_url": "https://akns-images.eonline.com/eol_images/Entire_Site/201992/rs_600x600-191002034010-600-Joaquin-Phoenix-Kimmel-LT-100219.jpg?fit=around|1080:1080&output-quality=90&crop=1080:1080;center,top"
+        },
+        {
+          "img_url": "https://img1.looper.com/img/gallery/the-untold-truth-of-joaquin-phoenix/intro-1569472962.jpg"
+        },
+        {
+          "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Joaquin_Phoenix_in_2018.jpg/1200px-Joaquin_Phoenix_in_2018.jpg"
+        },
+        {
+          "img_url": "https://www.oneindia.com/img/2020/02/joaquin-phoenix-1581315455.jpg"
+        },
+        {
+          "img_url": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F09%2Fwarner-bros-pictures-joaquin-phoenix-50m-usdjoker-trilogy-offer-rumor-info-001.jpg?q=75&w=800&cbr=1&fit=max"
+        }
+      ]
+    }
+  ]
+}

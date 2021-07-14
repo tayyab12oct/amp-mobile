@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="131" height="32" viewBox="0 0 131 32">
+  <g id="Group_13431" data-name="Group 13431" transform="translate(-910.944 -1895.667)">
+    <g id="Group_12857" data-name="Group 12857" transform="translate(910.944 1895.667)">
+      <g id="Group_12225" data-name="Group 12225" transform="translate(0 0)">
+        <g id="Rectangle_2883" data-name="Rectangle 2883" transform="translate(0 0)" fill="#03f87e" stroke="#03f87e" stroke-width="1">
+          <rect width="131" height="32" rx="16" stroke="none"/>
+          <rect x="0.5" y="0.5" width="130" height="31" rx="15.5" fill="none"/>
+        </g>
+        <g id="Group_12226" data-name="Group 12226" transform="translate(21 8)">
+          <g id="Group_12883" data-name="Group 12883">
+            <text id="_3_292_People_wathing" data-name="3,292 People wathing" transform="translate(15.053 12)" fill="#1d0740" font-size="12" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Watch Now</tspan></text>
+            <path id="Polygon_7" data-name="Polygon 7" d="M5.432,3.039a2,2,0,0,1,3.473,0l3.722,6.514a2,2,0,0,1-1.736,2.992H3.446A2,2,0,0,1,1.71,9.553Z" transform="translate(12.545 1) rotate(90)" fill="#1d0740"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

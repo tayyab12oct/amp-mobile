@@ -1,0 +1,13 @@
+.exll{
+    width: '100px'
+}
+.carousel_root{
+    background: transparent !important;
+    width: 100%;
+}
+.carousel .slide{
+    background: transparent !important;
+}
+.carousel .control-dots {
+bottom: 100px;
+}
