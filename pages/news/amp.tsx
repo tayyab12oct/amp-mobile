@@ -143,7 +143,7 @@ function Amp() {
           <amp-fit-text
             className="main-text"
             width="200"
-            height="50"
+            height="20"
             layout="responsive"
             max-font-size="24"
           >
