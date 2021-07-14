@@ -1,0 +1,11 @@
+version: '3.3'
+
+services:
+
+  Canopus-Web-SSR:
+    container_name: canopus-web-ssr
+    image: camelotdev-harbor.robosoftin.com:8443/canopus/web-ssr-app:${version}
+    restart: always
+    network_mode: host
+    ports:
+      - 6007:6007

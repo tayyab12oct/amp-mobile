@@ -1,0 +1,31 @@
+# https://www.stg-ssr.ottplay.org/robots.txt
+User-agent: *
+Disallow: /
+
+
+# https://www.ottplay.org/robots.txt
+
+# User-agent: EtaoSpider
+# Disallow: /
+
+# User-agent: AmazonAdBot
+# Disallow: /
+
+# User-agent: Googlebot
+# Allow: /foryou
+# Disallow: /
+
+# User-agent: Applebot         # apple
+# Disallow: /                     # Allow everything (also true if omitted)
+
+# User-agent: *
+# Disallow: /home
+# Disallow: /movies
+# Disallow: /shows
+# Disallow: /people
+# Disallow: /news
+
+# Sitemap: https://www.ottplay.com/sitemap.xml
+# Sitemap: https://www.ottplay.com/sitemap/movie.xml
+# Sitemap: https://www.ottplay.com/sitemap/show.xml
+# Sitemap: https://www.ottplay.com/sitemap/article.xml

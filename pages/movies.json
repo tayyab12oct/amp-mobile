@@ -1,0 +1,92 @@
+{
+    "imdb_rating": 9,
+    "release_year": 2020,
+    "movie_title": "Hamilton",
+    "certification": "ABS, General Audience, TV-v",
+    "release_date": "2020-07-03",
+    "content_type": "movie",
+    "match_score": "70%",
+    "critic_score": "4.5",
+    "genre": "Action",
+    "video_url": "",
+    "providers": "Netflix, Hotstar",
+    "cast_details": " Thayne Jasperson, Elizabeth Judd, Jon Rua, ",
+    "crew_details": "Austin Smith, Seth Stewart, Ephraim Sykes",
+    "description": "Movie was on the fire one the first day, was it worth watching. Know more about the in the news detail page",
+    "where_to_watch":  [
+        {  "text": "HD, HDDT","img_url": "", "rate": "$129 per Month", "button": "Watch Now" },
+        {  "text": "HD, HDDT", "img_url": "", "rate": "$129 per Month", "button": "Watch Now" },
+        {  "text": "HD, HDDT", "img_url": "", "rate": "$129 per Month", "button": "Watch Now" },
+        { "text": "HD, HDDT", "img_url": "", "rate": "$129 per Month", "button": "Rent Now" },
+        {  "text": "HD, HDDT", "img_url": "", "rate": "$129 per Month", "button": "Watch Now" },
+        { "text": "HD, HDDT", "img_url": "", "rate": "$129 per Month", "button": "Watch Now" }
+    ],
+    "cast_crew_detail" :[
+        { "name": "Jack Sparoow", "img_url": "", "nick": "Tom" },
+        { "name": " Zaszi Beets", "img_url": "", "nick": "Halen" },
+        { "name": "Robert De", "img_url": "", "nick": "Murffany"  },
+        { "name": "Gal Ga Dot", "img_url": "", "nick": "Sopiha" },
+        { "name": "Tood Phillips", "img_url": "", "nick": "Director"},
+        { "name": "Vin Disel", "img_url": "", "nick": "Producer"},
+        { "name": " Zaszi Beets", "img_url": "", "nick": "Halen" }
+    ],
+
+    "trailers" :[
+        { "video_url": ""},
+        {"video_url": ""},
+        { "video_url": ""},
+        {"video_url": "" },
+        { "video_url": "" },
+        {"video_url": ""},
+        { "video_url": "" }
+    ],
+
+    "photos" :[
+        { "img_url": ""},
+        {"img_url": ""},
+        { "img_url": ""},
+        {"img_url": "" },
+        { "img_url": "" },
+        {"img_url": ""},
+        { "img_url": "" }
+    ],
+
+    "similar_movies" : [
+        { "id": "01", "match": "90% Match", "img_url": "", "title": "Padmavati", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+			{ "id": "02", "match": "90% Match", "img_url": "",  "title": "The Wonder Women", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+			{ "id": "03", "match": "90% Match", "img_url": "", "title": "The Witcher", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+			{ "id": "04", "match": "90% Match", "img_url": "",  "title": "After Life", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+			{ "id": "05", "match": "90% Match", "img_url": "", "title": "The Dark Knight Rises", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+			{ "id": "06", "match": "90% Match", "img_url": "",  "title": "Ready Or Not", "type": "Movie", "provider": ["Netflix", "Amazon"] }
+    ],
+
+    "critics_reviews" : [
+        {"title": "News 18 India",  "img_url": "", "description": "Much like that standalone, this direct to video gem is a triumph, and I hope it doesnt take Warner Bros."},
+        {"title": "Youtube", "img_url": "", "description": "Much like that standalone, this direct to video gem is a triumph, and I hope it doesnt take Warner Bros."},
+        {"title": "Youtube", "img_url": "", "description": "Much like that standalone, this direct to video gem is a triumph, and I hope it doesnt take Warner Bros."},
+        {"title": "Vulture", "img_url": "", "description": "Much like that standalone, this direct to video gem is a triumph, and I hope it doesnt take Warner Bros."},
+        {"title": "IGN", "img_url": "", "description": "Much like that standalone, this direct to video gem is a triumph, and I hope it doesnt take Warner Bros."},
+        {"title": "IGN", "img_url": "", "description": "Much like that standalone, this direct to video gem is a triumph, and I hope it doesnt take Warner Bros."}
+    ],
+    
+    "user_reviews" : [
+        {"title": "Sarah Green", "img_url": "", "description": "Movie was on the fire one the first day, was it worth watching. Know more about the in the news detail page"},
+        {"title": "Sarah Green", "img_url": "", "description": "Movie was on the fire one the first day, was it worth watching. Know more about the in the news detail page"},
+        {"title": "Sarah Green", "img_url": "", "description": "Movie was on the fire one the first day, was it worth watching. Know more about the in the news detail page"}
+    ],
+
+    "top_news" : [
+       
+        {"main title" : "Thappad Day 1 Box Office: Taapsee's Hard Hitting Film Registers Slow Start With Rs…", "time": "40 Mins",  "img_url": ""},
+       { "news" : [
+        {"title": "Extraction", "time": "40 Mins", "description": "Movie was on the fire one the first day, was it worth watching ?"},
+        {"title": "Extraction", "time": "40 Mins", "description": "Wonder Woman 1984 sneak peek teases Kristen Wiig’s Cheetah transformation?"},
+        {"title": "Bollywood", "time": "40 Mins", "description": "Movie was on the fire one the first day, was it worth watching ?"},
+        {"title": "Hollywood", "time": "40 Mins", "description": "Movie was on the fire one the first day, was it worth watching ?"},
+        {"title": "Hollywood", "time": "40 Mins", "description": "Movie was on the fire one the first day, was it worth watching ?"},
+        {"title": "Bollywood", "time": "40 Mins", "description": "Movie was on the fire one the first day, was it worth watching. Know more about the in the news detail page?"}
+        ]
+    }
+    ]
+}
+

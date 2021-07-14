@@ -1,0 +1,12 @@
+export { WhereToWatch } from './WhereToWatch';
+export { CastAndCrew } from './CastAndCrew';
+export { Episodes } from './Episodes';
+export { CriticsReview } from './CriticsReview';
+export { MovieDescription } from './MovieDescription';
+export { PhotoThumbnail } from './PhotoThumbnail';
+export { SimilarMovies } from './SimilarMovies';
+export { TopNews } from './TopNews';
+export { TrailerAndVideos } from './TrailerAndVideos';
+export { UserReview } from './UserReview';
+// export * from './Episodes';
+export { CriticsUsersReviewMobile } from './CriticsUsersReviewMobile';

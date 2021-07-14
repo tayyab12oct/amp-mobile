@@ -1,0 +1,40 @@
+version: 0.2
+
+phases:
+  pre_build:
+    commands:
+      - echo Logging in to Amazon ECR...
+      - aws --version
+      - aws ecr get-login-password --region $AWS_DEFAULT_REGION | docker login --username AWS --password-stdin 540455772678.dkr.ecr.ap-south-1.amazonaws.com
+      # - $(aws ecr get-login --region $AWS_DEFAULT_REGION --no-include-email)
+      - REPOSITORY_SYNC=540455772678.dkr.ecr.ap-south-1.amazonaws.com/ottplay-web-sync-stg
+      - REPOSITORY_URI_STG=540455772678.dkr.ecr.ap-south-1.amazonaws.com/ottplay-web-ssr
+      - export IMAGE_TAG=$(echo $CODEBUILD_RESOLVED_SOURCE_VERSION | cut -c 1-7)
+      - AWS_SECRET_ACCESS_KEY=xlqDKING7ejAx5Dg0oPHFUGnEdYSr/0dmxswiwor
+      - AWS_ACCESS_KEY_ID=AKIAX3VNMUIDJQPX3KUF
+      - echo '***** This is the current env:'
+      - printenv
+  build:
+    commands:
+      - echo Build started on `date`
+      - echo Building the Docker image...
+      - docker build --build-arg env="staging" -t $REPOSITORY_URI_STG:latest -f Staging.Dockerfile .
+      - docker tag $REPOSITORY_URI_STG:latest $REPOSITORY_URI_STG:$IMAGE_TAG
+      - docker build --build-arg env="staging"
+        --build-arg AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID
+        --build-arg AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY
+        --build-arg AWS_DEFAULT_REGION=$AWS_DEFAULT_REGION
+        -t $REPOSITORY_SYNC:latest -f Sync.Dockerfile .
+      - docker run --rm $REPOSITORY_SYNC:latest
+  post_build:
+    commands:
+      - echo Build completed on `date`
+      - echo Pushing the Docker images...
+      - docker push $REPOSITORY_URI_STG:latest
+      - docker push $REPOSITORY_URI_STG:$IMAGE_TAG
+      - echo Writing image definitions file...
+      - printf '[{"name":"ottplay-web-ssr","imageUri":"%s"}]' $REPOSITORY_URI_STG:$IMAGE_TAG > imagedefinitions.json
+      - cat imagedefinitions.json
+artifacts:
+  files:
+    - imagedefinitions.json

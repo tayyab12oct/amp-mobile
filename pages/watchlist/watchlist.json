@@ -1,0 +1,30 @@
+
+
+    [
+        { "id": "01", "match": "90% Match", "add": false, "image": "https://images.ottplay.com/static/cardimage.png", "title": "Padmavati", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+        { "id": "02", "match": "90% Match", "add": false, "image": "card1", "title": "The Wonder Women", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+        { "id": "03", "match": "90% Match", "add": false, "image": "card7", "title": "The Witcher", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+        { "id": "04", "match": "90% Match", "add": false, "image": "cardImage", "title": "After Life", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+        { "id": "05", "match": "90% Match", "add": false, "image": "card4", "title": "The Dark Knight Rises", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+        { "id": "06", "match": "90% Match", "add": false, "image": "card5", "title": "Ready Or Not", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+        { "id": "07", "match": "90% Match", "add": false, "image": "card6", "title": "Joker", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+        { "id": "08", "match": "90% Match", "image": "cardImage", "title": "The Umbrella Academy", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+        { "id": "09", "match": "90% Match", "image": "card7", "title": "Mrs. America", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+        { "id": "10", "match": "90% Match", "image": "card1", "title": "Sarabhai Vs Sarabhai", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+        { "id": "11", "match": "90% Match", "image": "card6", "title": "Badhaai Ho", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+        { "id": "12", "match": "90% Match", "image": "card4", "title": "Insecure", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+        { "id": "13", "match": "90% Match", "image": "card5", "title": "Body At Brighton Rok", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+        { "id": "14", "match": "90% Match", "image": "card6", "title": "Mrs. America", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+        { "id": "15", "match": "90% Match", "image": "card7", "title": "The Wonder Women", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+        { "id": "16", "match": "90% Match", "image": "card1", "title": "The Wonder Women", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+        { "id": "17", "match": "90% Match", "image": "cardImage", "title": "The Wonder Women", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+        { "id": "18", "match": "90% Match", "image": "card1", "title": "The Wonder Women", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+        { "id": "19", "match": "90% Match", "image": "card4", "title": "The Wonder Women", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+        { "id": "20", "match": "90% Match", "image": "card5", "title": "The Wonder Women", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+        { "id": "21", "match": "90% Match", "image": "cardImage", "title": "The Wonder Women", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+        { "id": "22", "match": "90% Match", "image": "card7", "title": "The Wonder Women", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+        { "id": "23", "match": "90% Match", "image": "card6", "title": "Mrs. America", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+        { "id": "25", "match": "90% Match", "image": "card7", "title": "The Wonder Women", "type": "Movie", "provider": ["Netflix", "Amazon"] }
+ 
+
+    ]

@@ -1,0 +1,15 @@
+.body {
+  margin: 0;
+  font-family: Montserrat, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: url(https://images.ottplay.com/static/backgroundImage.jpg) no-repeat;
+  background-color: #130726 !important;
+  background-position: center top;
+}
+.bread-crumb-link {
+  cursor: pointer;
+}
+.bread-crumb-link:hover {
+  text-decoration: underline;
+}

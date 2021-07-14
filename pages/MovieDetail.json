@@ -1,0 +1,39 @@
+{
+    "Similar movies" : [
+        { "id": "01", "match": "90% Match", "add": true, "image": "cardImage", "title": "Padmavati", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+			{ "id": "02", "match": "90% Match", "add": false, "image": "card1", "title": "The Wonder Women", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+			{ "id": "03", "match": "90% Match", "add": false, "image": "card7", "title": "The Witcher", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+			{ "id": "04", "match": "90% Match", "add": false, "image": "cardImage", "title": "After Life", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+			{ "id": "05", "match": "90% Match", "add": false, "image": "card4", "title": "The Dark Knight Rises", "type": "Movie", "provider": ["Netflix", "Amazon"] },
+			{ "id": "06", "match": "90% Match", "add": false, "image": "card5", "title": "Ready Or Not", "type": "Movie", "provider": ["Netflix", "Amazon"] }
+    ],
+
+    "Critics reviews" : [
+        {"title": "News 18 India", "description": "Much like that standalone, this direct to video gem is a triumph, and I hope it doesnt take Warner Bros."},
+        {"title": "Youtube", "description": "Much like that standalone, this direct to video gem is a triumph, and I hope it doesnt take Warner Bros."},
+        {"title": "Youtube", "description": "Much like that standalone, this direct to video gem is a triumph, and I hope it doesnt take Warner Bros."},
+        {"title": "Vulture", "description": "Much like that standalone, this direct to video gem is a triumph, and I hope it doesnt take Warner Bros."},
+        {"title": "IGN", "description": "Much like that standalone, this direct to video gem is a triumph, and I hope it doesnt take Warner Bros."},
+        {"title": "IGN", "description": "Much like that standalone, this direct to video gem is a triumph, and I hope it doesnt take Warner Bros."}
+    ],
+    
+    "User reviews" : [
+        {"title": "Sarah Green", "description": "Movie was on the fire one the first day, was it worth watching. Know more about the in the news detail page"},
+        {"title": "Sarah Green", "description": "Movie was on the fire one the first day, was it worth watching. Know more about the in the news detail page"},
+        {"title": "Sarah Green", "description": "Movie was on the fire one the first day, was it worth watching. Know more about the in the news detail page"}
+    ],
+    "Top news" : [
+        {"main title" : "Thappad Day 1 Box Office: Taapsee's Hard Hitting Film Registers Slow Start With Rs…", "time": "40 Mins"},
+       { "news" : [
+        {"title": "Extraction", "time": "40 Mins", "description": "Movie was on the fire one the first day, was it worth watching ?"},
+        {"title": "Extraction", "time": "40 Mins", "description": "Wonder Woman 1984 sneak peek teases Kristen Wiig’s Cheetah transformation?"},
+        {"title": "Bollywood", "time": "40 Mins", "description": "Movie was on the fire one the first day, was it worth watching ?"},
+        {"title": "Hollywood", "time": "40 Mins", "description": "Movie was on the fire one the first day, was it worth watching ?"},
+        {"title": "Hollywood", "time": "40 Mins", "description": "Movie was on the fire one the first day, was it worth watching ?"},
+        {"title": "Bollywood", "time": "40 Mins", "description": "Movie was on the fire one the first day, was it worth watching. Know more about the in the news detail page?"}
+        ]
+    }
+    ]
+
+
+}
